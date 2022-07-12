@@ -1,0 +1,11 @@
+{
+  "expenseDb": [
+    {
+      "payeeName": "Manju",
+      "product": "Car Maintenance",
+      "price": 10,
+      "setDate": "2022-07-01",
+      "id": 1
+    }
+  ]
+}
